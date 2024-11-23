@@ -1,0 +1,6 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/re-chatapp-2658d-firebase-adminsdk-y7g3f-177ea7126d.json
+/other/
